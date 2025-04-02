@@ -47,3 +47,6 @@ This project aims to:
 * Feature Engineering: Generate predictive features from knowledge graphs.
 
 * Model Training & Evaluation: Train ML models and evaluate their performance with enriched datasets.
+
+
+Please see the Dissertation for more details. 
